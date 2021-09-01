@@ -1,0 +1,24 @@
+{
+  "name": "my_leecode",
+  "version": "1.0.0",
+  "description": "leecode刷题记录",
+  "main": "01_two_sum.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerrwy/my_leecode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerrwy/my_leecode/issues"
+  },
+  "homepage": "https://github.com/jerrwy/my_leecode#readme",
+  "dependencies": {
+    "expect": "^27.1.0",
+    "mocha": "^9.1.1"
+  }
+}
